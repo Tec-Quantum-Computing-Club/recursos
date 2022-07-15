@@ -2,7 +2,7 @@
 
 Este repositorio tiene el objetivo de proporcionar recursos, en su mayoría gratuitos, y proveer caminos de aprendizaje para facilitar la entrada a este campo innovador.
 
-El libro empieza [aquí](./book/index.html).
+El libro empieza [aquí](https://tec-quantum-computing-club.github.io/recursos/book/resumen.html).
 
 ## Compilar localmente
 
