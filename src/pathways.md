@@ -2,11 +2,22 @@
 
 Existen muchos caminos de aprendizaje que se pueden tomar. Hemos hecho algunos caminos que creemos son buenos para entrar al campo. Sólo son recomendaciones y depende mucho del estilo de aprendizaje de cada quién. Es importante notar que a excepción de los caminos de divulgación, es inevitable tener que aprender un poco de matemáticas (algebra lineal y números complejos).
 
-## Camino de la curiosidad
+## Curiosidad sin mate
 
 Este camino es para tener una embarrada de los conceptos, el desarrollo, posibles impactos y el futuro del área. Se basa sólo en recursos de divulgación.
 
-## Camino holístico
+Vídeos:
+
+- Kurzgesagt: [Quantum Computers Explained](https://www.youtube.com/watch?v=JhHMJCUmq28)
+- Quanta Magazine: [QComputers Explained with Physics](https://www.youtube.com/watch?v=jHoEjvuPoB8)
+- IBM Research: [Futuro de la tecnología](https://www.youtube.com/watch?v=ky32162U06M)
+
+Artículos:
+
+- IBM: [What is quantum computing?](https://www.ibm.com/topics/quantum-computing)
+- Quanta Magazine: [What Makes Quantum Computing So Hard to Explain?](https://www.quantamagazine.org/why-is-quantum-computing-so-hard-to-explain-20210608/)
+
+## Camino completo intermedio
 
 Este camino es uno que enfrenta directamente la rigurosidad matemática y física, además de la programación, teoría de información, etc.
 
@@ -18,7 +29,7 @@ Este camino es uno que enfrenta directamente la rigurosidad matemática y físic
 
 3. Elección personal de cualquier lenguaje o librería de programación cuántica. Recomendamos [Qiskit](https://qiskit.org/textbook/preface.html):
 
-## Camino del desarrollador
+## Para los devs
 
 Ve lo esencial de las matemáticas, pero se enfoca en desarrollar algoritmos y a programar.
 
